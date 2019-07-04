@@ -1,0 +1,24 @@
+{
+  "name": "octogo",
+  "version": "1.0.0",
+  "description": "A simple and useful chrome navigation for Github",
+  "main": "src/index.js",
+  "repository": "https://github.com/leonampd/octogo",
+  "author": "Leonam Pereira Dias <leonam.pd@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "npx eslint src",
+    "lint-fix": "npx eslit src --fix",
+    "build": "npx webpack"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.3",
+    "eslint": "5.3.0",
+    "eslint-config-pagarme-base": "^3.0.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jest": "^22.7.2",
+    "jest": "^24.8.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}

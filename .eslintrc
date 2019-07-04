@@ -1,0 +1,8 @@
+{
+  "extends": ["pagarme-base"],
+  "env": {
+    "webextensions": true,
+    "jest/globals": true
+  },
+  "plugins": ["jest"]
+}
