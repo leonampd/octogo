@@ -1,0 +1,15 @@
+{
+    "name": "Octogo - Github Chrome Navigation",
+    "description": "A Github navigation extension for Google Chrome",
+    "author": "Leonam Pereira Dias <leonam.pd@gmail.com>",
+    "version": "1.0.0",
+    "homepage_url": "https://github.com/leonampd/octogo",
+    "background": {
+        "scripts": [ "background.js" ],
+        "persistent": false
+    },
+    "omnibox": {
+        "keyword": "octogo"
+    },
+    "manifest_version": 2
+}
