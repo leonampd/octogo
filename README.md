@@ -1,3 +1,7 @@
+<p align="center" >
+<img src="https://github.com/leonampd/octogo/blob/master/assets/octogo128.png" />
+</p>
+
 # Octogo
 A Github navigation extension for Google Chrome
 
