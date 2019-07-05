@@ -7,6 +7,15 @@ A Github navigation extension for Google Chrome
 
 Everytime I want to visit a repository homepage I need to type all repo url, or save its address on bookmarks. Its annoying, with a bad user experience. This chrome extension enable a simple and fast go to repository!
 
+## Installation
+
+1. Go to `chrome://extensions`
+2. Download the latest release [here](https://github.com/leonampd/octogo/releases/latest)
+3. Unzip downloaded extension
+4. Click on _Load unpacked_ button
+5. Choose extension's unziped extension dir
+6. Be happy!
+
 ## Usage
 
 **Go to repository page**
