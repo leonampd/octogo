@@ -14,6 +14,11 @@ module.exports = {
         to: 'manifest.json',
         toType: 'file',
       },
+      {
+        from: 'assets/',
+        to: '[name].[ext]',
+        toType: 'template',
+      },
     ]),
   ],
 }

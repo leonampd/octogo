@@ -11,5 +11,9 @@
     "omnibox": {
         "keyword": "octogo"
     },
+    "icons": {
+        "48": "octogo48.png",
+        "128": "octogo48.png"
+    },
     "manifest_version": 2
 }
